@@ -1,4 +1,5 @@
 # Dynamic Event Calendar
+![Screenshot 2024-12-12 191706](https://github.com/user-attachments/assets/46485ded-fe5f-4eba-88a9-34180ec0b6e9)
 
 ## Overview
 
@@ -16,7 +17,9 @@ This project is a **Dynamic Event Calendar** built using **React**. It allows us
 - **Responsive UI**: The calendar and event details are responsive to screen sizes.
 
 ---
+![Screenshot 2024-12-12 191722](https://github.com/user-attachments/assets/20ee3516-fbde-4b82-9c58-0c6d8ec5beb0)
 
+![Screenshot 2024-12-12 191753](https://github.com/user-attachments/assets/c1eaed0f-3b5a-4481-993f-1a4c1bcdcb44)
 ## Installation
 
 ### Prerequisites:
